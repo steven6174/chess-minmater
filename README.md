@@ -1,2 +1,2 @@
-# chess-winner
-Bot for playing against chess.com computer opponents
+# chess-minmater
+Bot for playing automated play against chess.com computer opponents
